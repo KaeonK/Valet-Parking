@@ -1,5 +1,5 @@
 canvas =document.getElementById("myCanvas");
-AudioContext. =canvas.getContext ('2d');
+ctx.canvas.getContext ('2d');
 
 greencar_width ="75";
 greencar_height="100";
